@@ -5,7 +5,7 @@ This project is a comprehensive **End-to-End Data Analysis and Fraud Investigati
 
 ### 💾 Data Source
 The dataset used for this project is the **Czech Financial Dataset (Berka Dataset)** originally from the 1999 PKDD Discovery Challenge. It contains real, anonymized banking transactions, loans, and client demographic data.
-* **Dataset Link:** [Czech Financial Bank Dataset - Kaggle](https://www.kaggle.com/datasets/volodymyrgavrysh/bank-dataset)
+* **Dataset Link:** [Czech Financial Bank Dataset - Kaggle](https://www.kaggle.com/datasets/mariammariamr/1999-czech-financial-dataset)
 
 ---
 
