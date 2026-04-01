@@ -15,6 +15,8 @@ The management at **PayMoret** noticed suspicious patterns in transaction volume
 2. What is the demographic and geographical profile of these suspects?
 3. Did these suspects exploit the bank’s credit system before disappearing?
 
+> 🔗 **Want to dive deeper into the methodology and thought process? Read the full [Case Study & Analytical Journey](Case_Study.md).**
+
 ---
 
 ## 🛠️ Data Engineering & Cleaning (The Foundation)
@@ -60,13 +62,13 @@ The most critical finding: Most fraud suspects successfully applied for large lo
 ## 📷 Project Visuals
 
 ### 🎥 Interactive Demo
-![Dashboard Demo](04_Assets/Dashboard_Demo.gif)
+![Dashboard Demo](Dashboard/Dashboard_Demo.gif)
 
 ### 🖥️ Desktop Dashboard
-![Desktop Dashboard](04_Assets/Dashboard_Desktop.png)
+![Desktop Dashboard](Dashboard/Dashboard_Desktop.png)
 
 ### 📱 Mobile Layout
-![Mobile Dashboard](04_Assets/Dashboard_Mobile.png)
+![Mobile Dashboard](Dashboard/Dashboard_Mobile.png)
 
 *(Note: Visuals are placeholders and will be updated upon Power BI dashboard completion).*
 
