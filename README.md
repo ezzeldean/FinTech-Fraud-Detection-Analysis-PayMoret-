@@ -1,3 +1,5 @@
+![Project Cover](project_cover.png)
+
 # PayMoret: FinTech Anti-Money Laundering (AML) & Fraud Analysis
 
 ## 📌 Project Overview
