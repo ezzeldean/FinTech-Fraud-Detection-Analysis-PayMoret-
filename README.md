@@ -1,7 +1,7 @@
 # PayMoret: FinTech Anti-Money Laundering (AML) & Fraud Analysis
 
 ## 📌 Project Overview
-This project is a comprehensive **End-to-End Data Analysis and Fraud Investigation** conducted on a real-world banking dataset. The goal was to identify sophisticated financial crimes, specifically **Smurfing** (Money Laundering) and **Bust-Out Fraud** (Loan Defaults), and to provide actionable insights for a FinTech risk management team.
+This project is a comprehensive **End-to-End Data Analysis and Fraud Investigation** conducted on a real-world financial dataset. The goal was to identify sophisticated financial crimes, specifically **Smurfing** (Money Laundering) and **Bust-Out Fraud** (Loan Defaults), providing actionable insights for a FinTech Neobank's risk management team.
 
 ### 💾 Data Source
 The dataset used for this project is the **Czech Financial Dataset (Berka Dataset)** originally from the 1999 PKDD Discovery Challenge. It contains real, anonymized banking transactions, loans, and client demographic data.
