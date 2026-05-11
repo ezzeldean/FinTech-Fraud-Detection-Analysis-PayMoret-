@@ -65,9 +65,6 @@ The analysis revealed that fraud is highly concentrated in **Prague (The Capital
 ### 🎥 Interactive Demo
 ![Dashboard Demo](Dashboard/Dashboard_Demo.gif)
 
-### 📱 Mobile Layout
-![Mobile Dashboard](Dashboard/Dashboard_Mobile.png)
-
 ---
 
 ## 📂 Project Structure
