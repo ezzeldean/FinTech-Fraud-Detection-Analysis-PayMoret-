@@ -58,12 +58,12 @@ The analysis revealed that fraud is highly concentrated in **Prague (The Capital
 
 ## 📷 Project Visuals
 
+### 🎥 Interactive Demo
+![Dashboard Demo](Dashboard/Dashboard_Demo.gif)
+
 ### 🖥️ Desktop Dashboard (Command Center)
 ![Desktop Dashboard](Dashboard/Dashboard_Desktop.png)
 *Designed with Web UI/UX principles: Dark theme for reduced eye strain (SOC standard), custom cross-filtering logic for isolated investigation (preventing native BI cross-highlighting confusion), and compliance-standard terminology.*
-
-### 🎥 Interactive Demo
-![Dashboard Demo](Dashboard/Dashboard_Demo.gif)
 
 ---
 
