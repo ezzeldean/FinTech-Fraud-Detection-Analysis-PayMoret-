@@ -84,9 +84,3 @@ The analysis revealed that fraud is highly concentrated in **Prague (The Capital
 * **Power BI & DAX:** Custom metrics, dynamic categorization, interaction control (Filter vs. Highlight).
 * **UI/UX Design for BI:** Pixel-perfect alignment, custom headers, eliminating visual noise, color psychology for risk management.
 * **Business Acumen:** Translating raw data into compliance-standard metrics (Risk Exposure, Defaulted Accounts).
-
----
-
-## 👤 Author
-**Ezz El Dean Hashish**
-*Data Analyst | ex-Web Technical Lead*
